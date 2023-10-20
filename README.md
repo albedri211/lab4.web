@@ -84,7 +84,8 @@ float: none;
 ```
 ## Hasil Output
 (![0](https://github.com/albedri211/lab4.web/assets/115516606/c74eefaa-5818-4b48-8034-3b9be7a854fc)
-(![1(https://github.com/albedri211/lab4.web/assets/115516606/5c861dbe-78c9-43bf-9a74-478edd226d66)
+![1](https://github.com/albedri211/lab4.web/assets/115516606/b5efd8f1-713e-4ed2-9203-ed644f771ccf)
+
 * Kita akan membuat layout web sederhana seperti gambar berikut.
 (![8](https://github.com/albedri211/lab4.web/assets/115516606/dc9befe7-bcd2-4cb3-8a3b-40871f74183d)
 )
