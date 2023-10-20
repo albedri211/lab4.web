@@ -84,9 +84,10 @@ float: none;
 ```
 ## Hasil Output
 (![0](https://github.com/albedri211/lab4.web/assets/115516606/c74eefaa-5818-4b48-8034-3b9be7a854fc)
-(![1](https://github.com/albedri211/lab4.web/assets/115516606/5c861dbe-78c9-43bf-9a74-478edd226d66)
+(![1(https://github.com/albedri211/lab4.web/assets/115516606/5c861dbe-78c9-43bf-9a74-478edd226d66)
 * Kita akan membuat layout web sederhana seperti gambar berikut.
-![gambar 9]()
+(![8](https://github.com/albedri211/lab4.web/assets/115516606/dc9befe7-bcd2-4cb3-8a3b-40871f74183d)
+)
 * Buat folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya dengan nama home.html, dan file css dengan nama style.css.
 ```python
 <!DOCTYPE html>
@@ -124,7 +125,7 @@ float: none;
 </footer>
 ```
 ## Hasil Output
-![gambar 2](![8](https://github.com/albedri211/lab4.web/assets/115516606/8a344007-d5f6-4a05-83c7-ffaf9783b638)
+(![8](https://github.com/albedri211/lab4.web/assets/115516606/8a344007-d5f6-4a05-83c7-ffaf9783b638)
 )
 * Kemudian tambahkan kode CSS untuk membuat layoutnya.
 ```python
@@ -159,7 +160,7 @@ header h1 {
 }
 ```
 ## Hasil Output
-![gambar 3](![2](https://github.com/albedri211/lab4.web/assets/115516606/8ce29e44-db27-4219-99e8-78450656b0b8)
+(![2](https://github.com/albedri211/lab4.web/assets/115516606/8ce29e44-db27-4219-99e8-78450656b0b8)
 )
 
 * Kemudian selanjutnya mengatur navigasi.
@@ -183,7 +184,7 @@ nav a:hover {
 }
 ```
 ## Hasil Output
-![gambar 4](![3](https://github.com/albedri211/lab4.web/assets/115516606/c795f65b-b5c3-44ad-8c5a-883daf9ac371)
+(![3](https://github.com/albedri211/lab4.web/assets/115516606/c795f65b-b5c3-44ad-8c5a-883daf9ac371)
 )
 
 * Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
@@ -215,7 +216,7 @@ nav a:hover {
 }
 ```
 ## Hasil Output
-![gambar 5](![4](https://github.com/albedri211/lab4.web/assets/115516606/f24bb3c8-4803-4a50-a55c-7f95741a823d)
+(![4](https://github.com/albedri211/lab4.web/assets/115516606/f24bb3c8-4803-4a50-a55c-7f95741a823d)
 )
 
 * Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
@@ -284,7 +285,7 @@ nav a:hover {
 }
 ```
 ## Hasil Output
-![gambar 6](![5](https://github.com/albedri211/lab4.web/assets/115516606/089f626a-b942-476c-a0c6-44b926d5beae)
+(![5](https://github.com/albedri211/lab4.web/assets/115516606/089f626a-b942-476c-a0c6-44b926d5beae)
 )
 
 * Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
@@ -298,7 +299,7 @@ footer {
 }
 ```
 ## Hasil Output
-![gambar 7](![6](https://github.com/albedri211/lab4.web/assets/115516606/a3bd4de9-450c-428a-a976-9cfcd5a2bb6e)
+(![6](https://github.com/albedri211/lab4.web/assets/115516606/a3bd4de9-450c-428a-a976-9cfcd5a2bb6e)
 )
 * Menambahkan Elemen lainnya pada Main Content
 ```python
@@ -372,9 +373,8 @@ box img {
 }
 ```
 ## Hasil Output
-![gambar 8](![7](https://github.com/albedri211/lab4.web/assets/115516606/8caaf93f-c7c4-46d1-912f-5f7676ef682e)
+(![7](https://github.com/albedri211/lab4.web/assets/115516606/8caaf93f-c7c4-46d1-912f-5f7676ef682e)
 )
-
 * Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
 ```python
 </div>
@@ -419,7 +419,7 @@ box img {
 }
 ```
 ## Hasil Output
-![gambar 9](![8](https://github.com/albedri211/lab4.web/assets/115516606/4859491e-f73c-4a80-b5b3-f4b261a92218)
+(![8](https://github.com/albedri211/lab4.web/assets/115516606/4859491e-f73c-4a80-b5b3-f4b261a92218)
 )
 ```python
 <!DOCTYPE html>
@@ -628,7 +628,7 @@ button :hover{
 }
 ```
 ## Hasil Output
-![gambar 10](![9](https://github.com/albedri211/lab4.web/assets/115516606/d95f3063-f0ec-44ed-9a6e-a3b4b218f335)
+(![9](https://github.com/albedri211/lab4.web/assets/115516606/d95f3063-f0ec-44ed-9a6e-a3b4b218f335)
 )
-![gambar 11](![10](https://github.com/albedri211/lab4.web/assets/115516606/76e54f41-a1e1-4bad-8025-9c4aa03bfc45)
+(![10](https://github.com/albedri211/lab4.web/assets/115516606/76e54f41-a1e1-4bad-8025-9c4aa03bfc45)
 )
