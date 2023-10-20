@@ -83,11 +83,8 @@ float: none;
 </html>
 ```
 ## Hasil Output
-![gambar 1](![0](https://github.com/albedri211/lab4.web/assets/115516606/c74eefaa-5818-4b48-8034-3b9be7a854fc)
-)
-
-![gambar 2](![1](https://github.com/albedri211/lab4.web/assets/115516606/5c861dbe-78c9-43bf-9a74-478edd226d66)
-)
+(![0](https://github.com/albedri211/lab4.web/assets/115516606/c74eefaa-5818-4b48-8034-3b9be7a854fc)
+(![1](https://github.com/albedri211/lab4.web/assets/115516606/5c861dbe-78c9-43bf-9a74-478edd226d66)
 * Kita akan membuat layout web sederhana seperti gambar berikut.
 ![gambar 9]()
 * Buat folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya dengan nama home.html, dan file css dengan nama style.css.
